@@ -1,5 +1,5 @@
 #    Healthcare Cost Drivers & Claims Analytics
-### End-to-End Insurance-Focused Data Analysis Project
+### End-to-End Healthcare Insurance-Focused Data Analysis Project
 
 ---
 
